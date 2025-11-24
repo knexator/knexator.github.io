@@ -94,6 +94,10 @@ Here's all the games listed on those articles, starting with the most recently a
 -----
 
 And here's my TODO list:
+ - [Entwined Time](https://store.steampowered.com/app/3147300/Entwined_Time/)
+ - [Caw Across Time](https://antidissmist.itch.io/caw-across-time)
+ - [Loophole](https://store.steampowered.com/app/3629400/Loophole/)
+ - [Timelike](https://entera.itch.io/timelike)
  - [Theta and Paralldox on Worldlines](https://store.steampowered.com/app/3219580/Theta_and_Paralldox_on_Worldlines/)
  - [Timesweeper](https://marissaangell.itch.io/timesweeper)
  - [Time Turned](https://store.steampowered.com/app/2877110/Time_Turned/)
