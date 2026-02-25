@@ -14,7 +14,7 @@ time is an illusion and the past can't be changed. It presents an interesting qu
 In a universe with Closed Timelike Curves (the fancy name for consistent time travel),
 Nature must do some hard calculations to find a consistent timeline. In the same way that Nature must "compute" which is the shortest path for a light
 ray to travel between two points, it must also find which contents of the time machine will be stable. The main difference is that finding such a stable
-timeline is an NP-complete problem. For example, let's say we are given a sudoku puzzle. We start by getting a message from 5 minutes into the future:
+timeline is a much harder problem! For example, let's say we are given a sudoku puzzle. We start by getting a message from 5 minutes into the future:
 a potential solution for the sudoku. We then spend 5 minutes checking if the solution is valid. If it is, we send the message 5 minutes back in time, unchanged.
 If it isn't, we change some numbers randomly before sending it. This will lead to an inconsistent timeline (since the message we send isn't the same one
 we receive), meaning that the only possible timeline is the one in which we get a valid solution. Thanks to the time machine, the hard work of solving a
@@ -70,5 +70,7 @@ real, and yet when reading it we are tricked into thinking there's a passage of 
 illustrate Eternalism, why not use them to illustrate Eternalism with Time Travel?
 [![Comic strip](https://pbs.twimg.com/media/Ddqm4hpV4AEfoQZ?format=jpg&name=900x900 "Source: panistheman"){: .mx-auto.d-block :}](https://www.deviantart.com/panistheman/art/Comic-Strip-107321958)
 I'm not sure of how a game based on this idea would look, but I bet it could be fun.
+
+An interesting variant of this model is having multiple interacting timelines. For example, in one timeline you get a note from future-you saying "pick the chocolate icecream". You do that, but it's not a good option, so you send a note to your past self saying "pick the vanilla icecream". With a single timeline, this would be inconsistent, but you can fix it by introducing another timeline: in that one, you get vanilla, don't enjoy it, and thus recommend chocolate. I would like to see a [chrontraption](https://knexator.itch.io/chrontraption)-inspired game where you don't only control when each element appears, but also in what timeline.
 
 -----
